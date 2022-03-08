@@ -13,7 +13,7 @@ height: 300px;
 padding: 3px 28px;
 }
 #home::before{
-    height: 504px;
+    height: 509px;
     }
     #home h1{
         text-shadow: 3px 3px 0px #edd4f0;
@@ -23,7 +23,7 @@ padding: 3px 28px;
 
     }
     /* Services section  */
-/* #services{
+#services{
     flex-direction: column;
 }
 #services .box {
@@ -31,7 +31,7 @@ padding: 3px 28px;
     padding: 14px;
     margin: 0px -10px;
     margin-bottom: 20px;
-} */
+}
 /* Clients Section */
 #clients {
     flex-wrap: wrap;
